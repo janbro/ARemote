@@ -1,11 +1,3 @@
-/*************************   2012 Seeedstudio   **************************
-* File Name          : GroveLEDDemoCode.ino
-* Author             : Seeedteam
-* Version            : V1.1
-* Date               : 18/2/2012
-* Description        : Demo code for Grove - LED
-*************************************************************************/
-
 #include <Wire.h>
 #include "rgb_lcd.h"
 
